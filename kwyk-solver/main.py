@@ -4,7 +4,7 @@ from functions import int_input, rreplace
 
 
 
-#verification exo
+#verif exo
 if os.path.isdir(f"{os.curdir}/kwyk-solver/solvers/"):
     solvers_directory_path = f"{os.curdir}/kwyk-solver/solvers/"
 else:
